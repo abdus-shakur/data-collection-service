@@ -16,7 +16,10 @@
 	<description>Project for validating online data</description>
 
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>11</java.version>
+		<maven.compiler.source>11</maven.compiler.source>
+		<maven.compiler.target>11</maven.compiler.target>
+		<lombok.version>1.18.28</lombok.version>
 	</properties>
 
 	<dependencies>
